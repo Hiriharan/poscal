@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
-  <rect width="192" height="192" rx="32" fill="#0a0a0a"/>
-  <rect x="16" y="16" width="160" height="160" rx="24" fill="#141414" stroke="#c8f135" stroke-width="2"/>
-  <text x="96" y="82" font-family="monospace" font-weight="700" font-size="36" fill="#c8f135" text-anchor="middle">Pos</text>
-  <text x="96" y="124" font-family="monospace" font-weight="700" font-size="36" fill="#c8f135" text-anchor="middle">Cal</text>
-</svg>
